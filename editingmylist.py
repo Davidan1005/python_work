@@ -1,0 +1,28 @@
+friends = ["Taire", "Chiedozie", "Cyrus", "Ebele", "Blessing", "Adeayo"]
+print(friends)
+print(friends[0])
+print(friends[2].upper())
+print(friends[-1])
+message = (friends[1].title()) + " was one of my first friends"
+print(message)
+friends[0] = "Iro" 
+print(friends[0])
+friends.append('Anthony')
+print(friends)
+friends.insert(0, 'Jesus')
+print(friends)
+del friends[4]
+print(friends)
+oldfriends = friends.pop(1)
+print(oldfriends)
+print(friends)
+friends.remove('Blessing')
+print(friends)
+friends.sort(reverse = True)
+print(friends)
+friends.sort()
+print(friends)
+print(sorted(friends, reverse = True,))
+friends.reverse()
+print(friends)
+print(len(friends))
