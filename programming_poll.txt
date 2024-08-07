@@ -1,0 +1,5 @@
+It is fun
+I get to build cool stuff
+I learn about logic while i programme
+& "C:/Users/david nduka/AppData/Local/Programs/Python/Python311/python.exe" "c:/Users/david nduka/Documents/Coding/python_work/programming_poll.py"
+& "C:/Users/david nduka/AppData/Local/Programs/Python/Python311/python.exe" "c:/Users/david nduka/Documents/Coding/python_work/programming_poll.py"

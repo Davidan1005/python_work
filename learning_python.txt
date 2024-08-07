@@ -1,0 +1,4 @@
+In python you can read files and use their contents
+In python you cn manipulate various data types
+In python you can use a bunch of useful frameworks
+In python you can create alot of stuff
